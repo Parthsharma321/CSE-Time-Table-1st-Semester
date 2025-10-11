@@ -3,50 +3,54 @@
 <head>
   <title>HTML Table Basics</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f8ff;
-      color: #333;
-      text-align: center;
-    }
+/* Stylish Table CSS */
+.stylish-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  overflow: hidden;
+  background: #f9f9fc;
+  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+}
 
-    h2 {
-      color: #004d99;
-    }
+.stylish-table th, .stylish-table td {
+  padding: 14px 18px;
+  text-align: left;
+}
 
-    table {
-      margin: 20px auto;
-      border-collapse: collapse;
-      width: 70%;
-      background-color: #ffffff;
-      box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    }
+.stylish-table th {
+  background: linear-gradient(90deg, #6a82fb 0%, #fc5c7d 100%);
+  color: #fff;
+  font-size: 1.15em;
+  font-weight: 600;
+  border-bottom: 2px solid #eaeaea;
+}
 
-    th, td {
-      border: 2px solid #004d99;
-      padding: 10px;
-      text-align: center;
-    }
+.stylish-table tbody tr {
+  transition: background 0.2s;
+}
 
-    th {
-      background-color: #66b3ff;
-      color: white;
-    }
+.stylish-table tbody tr:nth-child(even) {
+  background: #f2f7fa;
+}
 
-    tr:nth-child(even) {
-      background-color: #e6f2ff;
-    }
+.stylish-table tbody tr:hover {
+  background: #ffe0e6;
+}
 
-    tr:hover {
-      background-color: #cce6ff;
-    }
-  </style>
+.stylish-table td {
+  border-bottom: 1px solid #ececec;
+  color: #333;
+}
+
+.stylish-table tr:last-child td {
+  border-bottom: none;
+}
+</style>
 </head>
-<body>
-
-  <h2>HTML Table Basics</h2>
-
-  <table>
+  <table class="stylish-table">
     <tr>
       <th>S. No.</th>
       <th>Roll No.</th>
