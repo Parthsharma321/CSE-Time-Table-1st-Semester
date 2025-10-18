@@ -3,50 +3,76 @@
 <head>
   <title>CSE Time Table 1st Semester</title>
   <h1 align="center"><b><i><u>CSE Time Table 1st Semester</u></i></b></h1>
-  <style>
-/* Stylish Table CSS */
-.stylish-table {
-  width: 100%;
-  border: 2px, solid black;
-  border-radius: 12px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
-  overflow: hidden;
-  background: ##f9f9fc;
-  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
-}
-
-.stylish-table th, .stylish-table td {
-  padding: 14px 18px;
+ body {
+  font-family: "Poppins", Arial, sans-serif;
+  background: linear-gradient(135deg, #e3f2fd, #f1f8ff);
+  color: #333;
   text-align: center;
 }
 
-.stylish-table th {
-  background: linear-gradient(90deg, #6a82fb 0%, #fc5c7d 100%);
-  color: #fff;
-  font-size: 1.15em;
+h2 {
+  color: #004d80;
+  letter-spacing: 1px;
+}
+
+table {
+  width: 90%;
+  margin: 25px auto;
+  border-collapse: collapse;
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+caption {
+  caption-side: top;
+  font-size: 20px;
   font-weight: 600;
-  border-bottom: 2px solid #eaeaea;
+  color: #003366;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
-.stylish-table tbody tr {
-  transition: background 0.2s;
+th, td {
+  padding: 12px;
+  border: 1px solid #cce5ff;
+  text-align: center;
+  transition: background-color 0.2s ease;
 }
 
-.stylish-table tbody tr:nth-child(even) {
-  background: #f2f7fa;
+th {
+  background: linear-gradient(135deg, #007acc, #0099ff);
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 14px;
 }
 
-.stylish-table tbody tr:hover {
-  background: #f2f7fa;
+tr:nth-child(even) {
+  background-color: #f2f9ff;
 }
 
-.stylish-table td {
-  border-bottom: 1px solid #ececec;
-  color: #333;
+tr:nth-child(odd) {
+  background-color: #ffffff;
 }
 
-.stylish-table tr:last-child td {
-  border-bottom: none;
+tr:hover {
+  background-color: #d6ecff;
+}
+
+td.recess {
+  background: #fff4cc;
+  color: #b8860b;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+table:hover {
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.2);
 }
 </style>
 </head>
