@@ -57,9 +57,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  🏛  GOVERNMENT POLYTECHNIC, ADITYAPUR  ·  JHARKHAND                ║
+║  🏛  GOVERNMENT POLYTECHNIC, ADITYAPUR  ·  JHARKHAND                 ║
 ║  💻  DEPARTMENT OF CSE ENGINEERING                                   ║
-║  📅  DIPLOMA 2ND SEMESTER  ·  SESSION 2025–28  ·  MEMO NO. 433      ║
+║  📅  DIPLOMA 2ND SEMESTER  ·  SESSION 2025–28  ·  MEMO NO. 433       ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -275,30 +275,30 @@ CSE-Time-Table-2nd-Semester/
 │           [Notices] [Syllabus ✦]                         │
 ├──────────────────────────────────────────────────────────┤
 │  HERO SECTION                                            │
-│  ┌────────────────────┐  ┌──────────────────────────┐   │
+│  ┌────────────────────┐  ┌──────────────────────────┐    │
 │  │ Government         │  │  ◈ Live System Clock     │   │
-│  │ Polytechnic        │  │  ┌────────────────────┐  │   │
-│  │ Adityapur          │  │  │  10:30             │  │   │
-│  │                    │  │  │  :45 AM            │  │   │
-│  │ [View Timetable]   │  │  │  Friday, 16 May    │  │   │
-│  │ [Syllabus] [Faculty│  │  │  ▸ Current: PYTHON │  │   │
-│  └────────────────────┘  │  └────────────────────┘  │   │
-│                          └──────────────────────────┘   │
+│  │ Polytechnic        │  │  ┌────────────────────┐  │    │
+│  │ Adityapur          │  │  │  10:30             │  │    │
+│  │                    │  │  │  :45 AM            │  │    │
+│  │ [View Timetable]   │  │  │  Friday, 16 May    │  │    │
+│  │ [Syllabus] [Faculty│  │  │  ▸ Current: PYTHON │  │    │
+│  └────────────────────┘  │  └────────────────────┘  │    │
+│                          └──────────────────────────┘    │
 ├──────────────────────────────────────────────────────────┤
-│  STATS  [6 Subjects] [28 Classes] [8 Labs] [7 Faculty]  │
+│  STATS  [6 Subjects] [28 Classes] [8 Labs] [7 Faculty]   │
 ├──────────────────────────────────────────────────────────┤
 │  TIMETABLE  (Interactive Grid with Tooltips)             │
 │  [Search...] [All] [Theory] [Lab] [Library]              │
-│  ┌──────┬──────┬──────┬──────┬───────┬──────┬──────┐   │
-│  │ Day  │10-11 │11-12 │12-1  │RECESS │2-3  │3-5   │   │
-│  ├──────┼──────┼──────┼──────┤       ├──────┼──────┤   │
-│  │ MON  │ S&A  │ FEEE │  ES  │  🍽️  │ PMS  │ LIB  │   │
-│  │ TUE  │ FEEE │  ES  │ PY   │       │ S&A  │ FEEE │   │
-│  │ WED  │ PMS  │ PY LAB/LIB  │       │ PYTH │SPORT │   │
-│  │ THU  │ FEEE │ S&A LAB     │       │ S&A  │ PMS  │   │
-│  │ FRI  │ PY   │  ES  │ PMS  │       │FEEE LAB │PR │   │
-│  │ SAT  │ —————— Free / Self Study ———————————————│   │
-│  └──────┴──────┴──────┴──────┴───────┴──────┴──────┘   │
+│  ┌──────┬──────┬──────┬──────┬───────┬──────┬──────┐     │
+│  │ Day  │10-11 │11-12 │12-1  │       │2-3  │3-5   │|     │
+│  ├──────┼──────┼──────┼──────┤       ├──────┼──────┤     │
+│  │ MON  │ S&A  │ FEEE │  ES  │       │ PMS  │ LIB  |     |
+│  │ TUE  │ FEEE │  ES  │ PY   │ RECESS│ S&A  │ FEEE │     │
+│  │ WED  │ PMS  │ PY LAB/LIB  │       │ PYTH │SPORT │     │
+│  │ THU  │ FEEE │ S&A LAB     │       │ S&A  │ PMS  │     │
+│  │ FRI  │ PY   │  ES  │ PMS  │       │FEEE LAB │PR │     │
+│  │ SAT  │ —————— Free / Self Study ——————————————— │     │
+│  └──────┴──────┴──────┴──────┴───────┴──────┴──────┘     │
 ├──────────────────────────────────────────────────────────┤
 │  FACULTY (Flip Cards × 7)                                │
 ├──────────────────────────────────────────────────────────┤
@@ -306,7 +306,7 @@ CSE-Time-Table-2nd-Semester/
 ├──────────────────────────────────────────────────────────┤
 │  SYLLABUS CTA  (with subject pills)                      │
 ├──────────────────────────────────────────────────────────┤
-│  FUTURE MODULES  (Syllabus ✦ LIVE + 9 planned)          │
+│  FUTURE MODULES  (Syllabus ✦ LIVE + 9 planned)           │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -316,44 +316,44 @@ CSE-Time-Table-2nd-Semester/
 ┌──────────────────────────────────────────────────────────┐
 │  NAV BAR  (same as main, Syllabus highlighted cyan)      │
 ├──────────────────────────────────────────────────────────┤
-│  HERO  ← Back to Timetable                              │
+│  HERO  ← Back to Timetable                               │
 │         Subject Syllabus                                 │
 │         Dept. of CSE · NEP 2020                          │
 ├──────────────────────────────────────────────────────────┤
-│  STATS STRIP  [5 Subjects] [32 Units] [143L] [208P]     │
+│  STATS STRIP  [5 Subjects] [32 Units] [143L] [208P]      │
 ├──────────────────────────────────────────────────────────┤
-│  CONTROLS  [Search...] [All|Theory+Lab|Theory] [Sem 2]  │
+│  CONTROLS  [Search...] [All|Theory+Lab|Theory] [Sem 2]   │
 ├──────────────────────────────────────────────────────────┤
 │  SUBJECT CARDS GRID                                      │
-│  ┌──────────┐ ┌──────────┐ ┌──────────┐                 │
+│  ┌──────────┐ ┌──────────┐ ┌──────────┐                  │
 │  │ 📊 S&A   │ │ ⚡ FEEE  │ │ 🐍 Python│                 │
-│  │ SA-201   │ │ FEEE-201 │ │ PY-201   │                 │
-│  │Theory+Lab│ │Theory+Lab│ │Theory+Lab│                 │
-│  │[View][TT]│ │[View][TT]│ │[View][TT]│                 │
-│  └──────────┘ └──────────┘ └──────────┘                 │
-│  ┌──────────┐ ┌──────────┐                              │
+│  │ SA-201   │ │ FEEE-201 │ │ PY-201   │                  │
+│  │Theory+Lab│ │Theory+Lab│ │Theory+Lab│                  │
+│  │[View][TT]│ │[View][TT]│ │[View][TT]│                  │
+│  └──────────┘ └──────────┘ └──────────┘                  │
+│  ┌──────────┐ ┌──────────┐                               │
 │  │ 📋 PMS   │ │ 🌿 ES    │                              │
-│  │ PMS-201  │ │ ES-201   │                              │
-│  │Theory+Lab│ │Theory    │                              │
-│  │[View][TT]│ │[View][TT]│                              │
-│  └──────────┘ └──────────┘                              │
+│  │ PMS-201  │ │ ES-201   │                               │
+│  │Theory+Lab│ │Theory    │                               │
+│  │[View][TT]│ │[View][TT]│                               │
+│  └──────────┘ └──────────┘                               │
 ├──────────────────────────────────────────────────────────┤
 │  MODAL (on "View Syllabus" click)                        │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │ 📊 S&A-201  Statistics & Analytics             [✕] │ │
-│  │ Theory+Lab · Semester 2 · L:26 T:0 P:52           │ │
-│  │ ─────────────────────────────────────────────────  │ │
-│  │ [📘 Units (4)]  [🔬 Practicals (25)]               │ │
-│  │ ─────────────────────────────────────────────────  │ │
-│  │ ▸ [UNIT 1] Statistical Data Collection  4-0-8  ▾   │ │
-│  │    Skill Set: Able to collect statistical data...  │ │
-│  │    ▸ Definition of data and classification         │ │
-│  │    ▸ Data collection tools: Questionnaires...      │ │
-│  │    ▸ Data cleaning                                 │ │
-│  │ ▸ [UNIT 2] Summarisation of Data  8-0-16  ▾        │ │
-│  │ ▸ [UNIT 3] Measures of Location & Dispersion ▾     │ │
-│  │ ▸ [UNIT 4] Introduction to Python  8-0-16  ▾       │ │
-│  └────────────────────────────────────────────────────┘ │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ 📊 S&A-201  Statistics & Analytics            [✕] │  │
+│  │ Theory+Lab · Semester 2 · L:26 T:0 P:52            │  │
+│  │ ─────────────────────────────────────────────────  │  │
+│  │ [📘 Units (4)]  [🔬 Practicals (25)]              │  │
+│  │ ─────────────────────────────────────────────────  │  │
+│  │ ▸ [UNIT 1] Statistical Data Collection  4-0-8  ▾   │  │
+│  │    Skill Set: Able to collect statistical data...  │  │
+│  │    ▸ Definition of data and classification         │  │
+│  │    ▸ Data collection tools: Questionnaires...      │  │
+│  │    ▸ Data cleaning                                 │  │
+│  │ ▸ [UNIT 2] Summarisation of Data  8-0-16  ▾        │  │
+│  │ ▸ [UNIT 3] Measures of Location & Dispersion ▾     │  │
+│  │ ▸ [UNIT 4] Introduction to Python  8-0-16  ▾       │  │
+│  └────────────────────────────────────────────────────┘  │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -660,10 +660,10 @@ Edit the **CSS variables** at the top of **`style.css`**:
 │             │  Real-time clock · Timetable highlight        │
 ├─────────────┴───────────────────────────────────────────────┤
 │  FONTS (Google Fonts · CDN)                                 │
-│  Orbitron · Exo 2 · JetBrains Mono                         │
+│  Orbitron · Exo 2 · JetBrains Mono                          │
 ├─────────────────────────────────────────────────────────────┤
 │  HOSTING                                                    │
-│  GitHub Pages (free · static · no backend needed)          │
+│  GitHub Pages (free · static · no backend needed)           │
 └─────────────────────────────────────────────────────────────┘
 ```
 
