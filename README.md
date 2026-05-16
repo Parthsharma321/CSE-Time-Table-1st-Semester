@@ -332,7 +332,7 @@ CSE-Time-Table-2nd-Semester/
 │  │[View][TT]│ │[View][TT]│ │[View][TT]│                  │
 │  └──────────┘ └──────────┘ └──────────┘                  │
 │  ┌──────────┐ ┌──────────┐                               │
-│  │ 📋 PMS   │ │ 🌿 ES    │                              │
+│  │ 📋 PMS   │ │ 🌿 ES   │                              │
 │  │ PMS-201  │ │ ES-201   │                               │
 │  │Theory+Lab│ │Theory    │                               │
 │  │[View][TT]│ │[View][TT]│                               │
@@ -474,13 +474,13 @@ All subject syllabi are extracted from the **official NEP 2020 curriculum PDF** 
 
 | Code | Name | Subjects | Role |
 |:---:|---|---|---|
-| **MRG** | Mr. M.R. Gupta | S&A (Theory) · S&A Lab | Faculty, CSE |
+| **MRG** | Ms. M.R. Gupta | S&A (Theory) · S&A Lab | Faculty, CSE |
 | **SK** | Mr. Sanjeev Kumar | FEEE (Theory) · FEEE Lab | **Principal**, GP Adityapur |
 | **PP** | Ms. Priya Pandey | Engineering Science · Sports | Faculty, CSE |
-| **KM** | Ms. K. Mishra | Python (Theory) · Python Lab · Library | Faculty, CSE |
+| **KM** | Mr. Kunal Mahto | Python (Theory) · Python Lab · Library | Faculty, CSE |
 | **Priyanka** | Ms. Priyanka | PMS (Theory) · PMS Lab | Faculty, CSE |
 | **BKS** | Mr. B.K. Singh | S&A (Theory) | Faculty, CSE |
-| **CS** | Mr. C. Sharma | FEEE (Theory) · FEEE Lab | Faculty, CSE |
+| **SK** | Smt. Sushma Kumari | FEEE (Theory) · FEEE Lab | Faculty, CSE |
 
 ---
 
